@@ -1,4 +1,3 @@
-# A tool by nitro from www.noob-hackers.com
 # Be a unique person not copy cat
 # Colours
 #-----------------
@@ -12,6 +11,7 @@ pink='\033[1;35m'
 #-----------------
 # scripting starts
 clear
+termux-open 'https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q'
 echo '
                 
                          __________
@@ -32,12 +32,12 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                           MR.404
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                     ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn MR.404$red ◀$rset"
+echo -e "$red                     ⫸$ylo  KALIMANYAN-CYBER-TEAM$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
